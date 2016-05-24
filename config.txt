@@ -1,3 +1,3 @@
-name = Peter
-size = 100
-age = 20
+name = Gosho
+size = 50
+age = 10
