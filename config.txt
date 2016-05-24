@@ -1,0 +1,3 @@
+name = Peter
+size = 100
+age = 20
